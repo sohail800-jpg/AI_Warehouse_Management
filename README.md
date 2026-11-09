@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+
+🚀 **Live Application:** https://web-production-05bfd.up.railway.app
+
+
 # AI-Powered Smart Warehouse Management System
 
 An AI-powered warehouse management system designed to simplify inventory operations, monitor stock levels, manage purchase and sales orders, and predict future product demand.
