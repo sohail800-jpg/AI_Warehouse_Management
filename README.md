@@ -100,3 +100,13 @@ flowchart TD
     K --> L[AI Generated Responses]
     F --> G
 ```
+
+## Future Enhancements
+
+- Real-time inventory tracking and notifications.
+- Barcode and QR code scanning for product management.
+- Advanced demand forecasting with additional Machine Learning models.
+- Role-based access control for warehouse employees and administrators.
+- Interactive analytics dashboards and business reports.
+- Cloud deployment for remote warehouse access.
+- Mobile-friendly interface for warehouse operations.
