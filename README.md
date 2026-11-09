@@ -119,3 +119,16 @@ Watch the complete project demonstration:
 [![AI Warehouse Demo](https://img.youtube.com/vi/AYPSPepxTR0/0.jpg)](https://youtu.be/AYPSPepxTR0)
 
 [? Watch Demo on YouTube](https://youtu.be/AYPSPepxTR0)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohail800-jpg&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail800-jpg&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail800-jpg&layout=compact&theme=tokyonight" height="165" />
+</p>
