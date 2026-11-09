@@ -52,3 +52,14 @@ Configure these variables in your local `.env` file:
 ## Project Status
 
 Core warehouse management, forecasting, REST API, and AI chatbot features implemented.
+
+## Screenshots
+
+### 1. Warehouse Dashboard
+![Warehouse Dashboard](screenshots/dashboard.png)
+
+### 2. AI Demand Forecasting
+![Demand Forecasting](screenshots/forecasting.png)
+
+### 3. AI Warehouse Chatbot
+![AI Warehouse Chatbot](screenshots/chatbot.png)
