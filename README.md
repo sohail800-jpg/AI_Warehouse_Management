@@ -112,15 +112,13 @@ flowchart TD
 - Mobile-friendly interface for warehouse operations.
 
 
-## ?? Project Demo
+## Project Demo
 
 Watch the complete project demonstration:
 
 [![AI Warehouse Demo](https://img.youtube.com/vi/AYPSPepxTR0/0.jpg)](https://youtu.be/AYPSPepxTR0)
 
-[? Watch Demo on YouTube](https://youtu.be/AYPSPepxTR0)
-
----
+[Watch Demo on YouTube](https://youtu.be/AYPSPepxTR0)
 
 ## 📊 GitHub Statistics
 
