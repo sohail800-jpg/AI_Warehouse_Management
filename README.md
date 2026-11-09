@@ -63,3 +63,25 @@ Core warehouse management, forecasting, REST API, and AI chatbot features implem
 
 ### 3. AI Warehouse Chatbot
 ![AI Warehouse Chatbot](screenshots/chatbot.png)
+
+
+    
+## System Architecture
+
+```mermaid
+flowchart TD
+    A[User] --> B[Django Web Application]
+    B --> C[Inventory Management]
+    B --> D[AI Demand Forecasting]
+    B --> E[AI Warehouse Chatbot]
+    B --> F[Django REST Framework API]
+    C --> G[(MySQL Database)]
+    G --> D
+    D --> H[Machine Learning Model]
+    H --> I[Demand Predictions]
+    I --> J[Reorder Recommendations]
+    E --> G
+    E --> K[Google Gemini API]
+    K --> L[AI Generated Responses]
+    F --> G
+```
